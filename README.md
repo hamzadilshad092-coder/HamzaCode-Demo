@@ -1,4 +1,4 @@
 # HamzaCode-Demo
 This is my first Git Repository
 <br>
-Author - Hamza Dilshad
+Author - Hamza Dilshad Ali
